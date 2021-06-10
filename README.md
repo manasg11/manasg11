@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manasgoel2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manasgoel2020" height="30" width="40" /></a>
+<a href="https://twitter.com/manasgoel20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manasgoel2020" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manas-goel-7329541b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manas-goel-7329541b5/" height="30" width="40" /></a>
 <a href="https://instagram.com/manas_goel0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manas_goel0007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manasg1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manasg1124" height="30" width="40" /></a>
