@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasg11" alt="manasg11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manasgoel2020" target="blank"><img src="https://img.shields.io/twitter/follow/manasgoel2020?logo=twitter&style=for-the-badge" alt="manasgoel2020" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manasgoel2020" target="blank"><img src="https://img.shields.io/twitter/follow/manasgoel20?logo=twitter&style=for-the-badge" alt="manasgoel2020" /></a> </p>
 
 - 🔭 I’m currently working on **JQUERY**
 
